@@ -5,7 +5,7 @@ Java command line application enabling users to search, borrow, return and donat
 # Code Properties
 
 - Database design and implementation
-- Data read from a spreadsheet into database
+- Data read from a spreadsheet into a database
 - Backend implementation of CRUD operations on a database
 - Models, Controllers and Repositories
 - Connection pool
@@ -15,8 +15,8 @@ Java command line application enabling users to search, borrow, return and donat
 # Tools and technologies
 
 - JavaSE, including JDBC API
-- SQLite db
-- Apache DBCP package
+- SQLite
+- Apache DBCP
 - Apache POI XSSF
 - Maven
 
