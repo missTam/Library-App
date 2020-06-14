@@ -23,7 +23,6 @@ Java command line application enabling users to search, borrow, return and donat
 # Code Architecture
 
 - Repository design pattern
-- Template design pattern
 
 # Library Database Model
 
