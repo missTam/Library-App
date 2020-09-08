@@ -1,8 +1,8 @@
-# Library App
+## Library App
 
 Java command line application enabling users to search, borrow, return and donate book(s) to a library.
 
-# Code Properties
+## Code Properties
 
 - Database design and implementation
 - Data read from a spreadsheet into a database
@@ -12,7 +12,7 @@ Java command line application enabling users to search, borrow, return and donat
 - No service layer
 - No framework
 
-# Tools and technologies
+## Tools and technologies
 
 - JavaSE, including JDBC API
 - SQLite
@@ -20,15 +20,15 @@ Java command line application enabling users to search, borrow, return and donat
 - Apache POI XSSF
 - Maven
 
-# Code Architecture
+## Code Architecture
 
 - Repository design pattern
 
-# Library Database Model
+## Library Database Model
 
 <img src="resources/db_model.PNG">
 
-# Links
+## Links
 
 [SQLite](https://webpack.js.org/)
 
