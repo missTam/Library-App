@@ -9,18 +9,15 @@ Java command line application enabling users to search, borrow, return and donat
 - Backend implementation of CRUD operations on a database
 - Connection pool
 - No frameworks
+- Repository design pattern
 
-## Tools and technologies
+## Technologies
 
 - JavaSE, including JDBC API
 - SQLite
 - Apache DBCP
 - Apache POI XSSF
 - Maven
-
-## Code Architecture
-
-- Repository design pattern
 
 ## Library Database Model
 
